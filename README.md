@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There ☕
 
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdark&theme=vue&show_icons=true)
 

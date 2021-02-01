@@ -3,6 +3,13 @@
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdark&theme=vue&show_icons=true)
 
 <!--START_SECTION:waka-->
+```text
+SQL          7 hrs 54 mins   ███████████████████▓░░░░░   78.68 % 
+TypeScript   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+```
 <!--END_SECTION:waka-->
 
 <!--

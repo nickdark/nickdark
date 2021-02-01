@@ -1,8 +1,6 @@
-
-
 ![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickdark&theme=vue&show_icons=true)
 
-### Weekly Language Breakdown
+
 <!--START_SECTION:waka-->
 ```text
 Week: 24 January, 2021 - 31 January, 2021

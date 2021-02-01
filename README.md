@@ -4,6 +4,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 24 January, 2021 - 31 January, 2021
+
 SQL          7 hrs 54 mins   ███████████████████▓░░░░░   78.68 % 
 TypeScript   34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 JavaScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 

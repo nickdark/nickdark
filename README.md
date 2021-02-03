@@ -3,13 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 January, 2021 - 01 February, 2021
+Week: 26 January, 2021 - 02 February, 2021
 
-SQL          7 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   37.87 % 
-JavaScript   4 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.79 % 
-TypeScript   2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-JSX          2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-JSON         1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+SQL          9 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   41.31 % 
+JavaScript   4 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
+TypeScript   2 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+JSX          2 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JSON         1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 <!--END_SECTION:waka-->
 

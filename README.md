@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2021 - 20 February, 2021
+Week: 14 February, 2021 - 21 February, 2021
 
 SQL          2 hrs 34 mins   ██████████████▒░░░░░░░░░░   57.79 % 
 TypeScript   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 

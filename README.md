@@ -3,11 +3,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 February, 2021 - 02 March, 2021
+Week: 24 February, 2021 - 03 March, 2021
 
-TypeScript   6 hrs 52 mins   ██████████████▓░░░░░░░░░░   58.43 % 
-SQL          3 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-HTML         1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+TypeScript   7 hrs 4 mins    ███████████████░░░░░░░░░░   60.41 % 
+SQL          3 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
+HTML         1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```

@@ -3,13 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 March, 2021 - 24 March, 2021
+Week: 18 March, 2021 - 25 March, 2021
 
-SQL          3 hrs 58 mins   ████████████████████░░░░░   80.13 % 
-AutoHotkey   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-TypeScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+SQL          4 hrs 3 mins    █████████████████░░░░░░░░   67.85 % 
+TypeScript   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+AutoHotkey   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Emacs Lisp   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Bash         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 ```
 <!--END_SECTION:waka-->
 

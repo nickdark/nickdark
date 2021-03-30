@@ -3,13 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 March, 2021 - 28 March, 2021
+Week: 22 March, 2021 - 29 March, 2021
 
-SQL          6 hrs 19 mins   ███████████████░░░░░░░░░░   59.52 % 
-JavaScript   3 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.90 % 
-TypeScript   38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-Emacs Lisp   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+SQL          6 hrs 19 mins   ████████████▓░░░░░░░░░░░░   50.50 % 
+JavaScript   4 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.59 % 
+TypeScript   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Git          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 <!--END_SECTION:waka-->
 

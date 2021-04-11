@@ -3,11 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
-SQL          6 hrs 56 mins   ██████████████████████▒░░   89.18 % 
-TypeScript   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+SQL    5 hrs 51 mins   █████████████████████████   99.61 % 
+JSON   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 <!--END_SECTION:waka-->
 

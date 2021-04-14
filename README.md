@@ -3,10 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-SQL    5 hrs 51 mins   █████████████████████████   99.61 % 
-JSON   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+SQL    3 hrs 25 mins   ████████████████████████▓   99.33 % 
+JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 

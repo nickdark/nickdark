@@ -3,10 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2021 - 16 April, 2021
-
-SQL    32 mins         ████████████████████████░   95.87 % 
-JSON   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

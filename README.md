@@ -3,7 +3,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 April, 2021 - 26 April, 2021
+
+sh           39 mins         ███████████████████░░░░░░   75.88 % 
+Python       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Emacs Lisp   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+INI          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -3,9 +3,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 April, 2021 - 03 May, 2021
+Week: 27 April, 2021 - 04 May, 2021
 
-sh   1 hr 12 mins    █████████████████████████   100.00 % 
+sh   54 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -3,7 +3,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 28 June, 2021 - 04 July, 2021
+
+Python   17 mins         █████████████████░░░░░░░░   67.83 % 
+fish     8 mins          ████████░░░░░░░░░░░░░░░░░   32.04 % 
 ```
 <!--END_SECTION:waka-->
 

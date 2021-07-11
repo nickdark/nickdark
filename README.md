@@ -3,7 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2021 - 09 July, 2021
+Week: 04 July, 2021 - 10 July, 2021
 
 Python   17 mins         ██████████████░░░░░░░░░░░   55.97 % 
 fish     8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.44 % 

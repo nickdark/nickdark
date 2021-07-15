@@ -3,9 +3,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
-
-VimL   5 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
